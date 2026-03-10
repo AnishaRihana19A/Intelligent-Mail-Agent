@@ -30,8 +30,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Intelli-Mail-Agent.git
-   cd Intelli-Mail-Agent
+   git clone https://github.com/AnishaRihana19A/Intelligent-Mail-Agent.git
+   cd Intelligent-Mail-Agent
    ```
 
 2. **Install dependencies**
@@ -74,4 +74,8 @@ npm run start
 ## 📝 License
 
 This project is licensed under the MIT License.
+
+## Contact
+
+-   Anisha Rihana A - [anisharihana60@gmail.com](mailto:anisharihana60@gmail.com)
 
